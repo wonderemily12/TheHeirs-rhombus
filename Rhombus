@@ -1,0 +1,30 @@
+class Rhombus 
+{
+	public int a;
+	public int b;
+}
+
+class Rhombus
+{
+
+}
+
+class setSide
+{
+}
+
+class getSide
+{
+}
+
+class setArea
+{
+}
+
+class getArea
+{
+}
+
+class 
+{
+}
